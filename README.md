@@ -1,4 +1,4 @@
-# 🛒 Smart Sales & Inventory Tracker (SSIT)
+# Smart Sales & Inventory Tracker (SSIT)
 
 A **Database Management System (DBMS)** project built with **MySQL** and **phpMyAdmin (XAMPP)** for managing product sales, inventory and daily transactions of a product distribution company.
 
